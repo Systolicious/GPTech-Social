@@ -1,0 +1,83 @@
+.bot {
+	width: 20vw;
+	padding-right: 2vw;
+	padding-top: 2vw;
+}
+.homeBody {
+	display: flex;
+	justify-content: space-between;
+}
+.nav {
+	display: flex;
+	flex-direction: column;
+}
+.footer {
+	font-size: 0.8em;
+	text-align: center;
+	color: #f6ad3f;
+}
+.banner {
+	position: static;
+	width: 100vw;
+}
+.title {
+	position: relative;
+	padding: 1vh 0vw 1vh 5vw;
+	color: white;
+}
+
+.post {
+	height: fit-content;
+}
+
+#fileInput {
+	display: none;
+}
+.logo {
+	width: 8vw;
+	margin-top: 2vh;
+}
+.go {
+	text-align: center;
+}
+.display {
+	background-color: white;
+	padding-left: 2vw;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	margin-top: 2vh;
+}
+input {
+	border-color: #333332;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+a:-webkit-any-link {
+	text-decoration: none;
+	color: #333332;
+}
+.advert {
+	display: flex;
+	flex-direction: column;
+}
+.upload {
+	padding: 1vw;
+}
+.posts {
+	display: flex;
+	flex-direction: column;
+	width: 40vw;
+}
+h5 {
+	color: white;
+	padding-right: 10px;
+}
+.posterButton {
+	margin-bottom: 8vh;
+	margin-left: 28vw;
+	border-radius: 10px;
+}
+.author {
+	text-align: right;
+	font-size: 0.8em;
+}
